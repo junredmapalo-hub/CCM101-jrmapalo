@@ -1,3 +1,5 @@
+# Mission Reflection
+
 Compute is the most vital cloud infrastructure component because it provides the essential processing power and system memory necessary to run application code and execute workload logic. Storage and networking infrastructure components exist primarily to feed data into compute engines or transmit processing outputs across endpoints. Without functional compute capability, stored data remains static and networking paths have no active applications to serve.
 
 Linux serves as the cornerstone of cloud computing by offering a lightweight, secure, and highly adaptable open-source operating system. Most public cloud providers, virtual machine images, and container orchestration engines rely on the Linux kernel for efficient process scheduling and memory management. Its robust command-line tools enable automated server management, environment configuration, and seamless deployment of containerized cloud applications.
